@@ -1,0 +1,117 @@
+@media(max-width:1024px) {
+
+  /* about setion */
+  .header_wrapper .nav-btn {
+    padding: 5px 10px !important;
+    margin-left: 20px;
+  }
+
+  .wrapper_section {
+    height: 700px;
+  }
+
+
+}
+
+
+
+/* custom classes */
+@media(max-width:991px) {
+
+
+  .header_wrapper {
+    width: 60rem;
+  }
+
+  .bottom-nav {
+    width: 60rem;
+  }
+
+  .banner_section {
+    width: 60rem;
+    
+
+  }
+
+ 
+
+  .customer_section {
+    width: 60rem;
+  }
+
+  .wrapper_section {
+    width: 60rem;
+  }
+
+  .book_section {
+    width: 60rem;
+  }
+
+  .copyright_section {
+    width: 60rem;
+  }
+
+  .header_wrapper .menu-navbar-nav {
+
+    text-align: center;
+  }
+
+  .header_wrapper .nav-btn {
+
+    width: 180px;
+    margin-bottom: 16px;
+    margin-left: 18rem;
+  }
+  .business_section .business-img img{
+     width: 300px;
+  }
+}
+
+@media(max-width:767px) {
+  .business_section{
+   
+    margin-left: 180px;
+    font-size: 20px;
+   
+  }
+
+  .business_section .business-img img{
+    width: 500px !important;
+ }
+  .limelight_section{
+    margin-left: 180px;
+    font-size: 20px;
+  }
+  .logo_section {
+    width: 60rem;
+  }
+
+  .main_logo {
+    width: 55rem;
+  }
+
+  .demo_section {
+    width: 55rem;
+  }
+
+  
+
+  .limelight_section h1,span,p{
+    font-size: 24px;
+  }
+  /* .business_section{
+   
+    margin-left: 180px;
+   width: 70rem;
+   font-size: 20px;
+  }
+  .business_section .business-img img{
+    width: 440px !important;
+ } */
+ 
+
+}
+
+@media(max-width:330px) {
+  
+}
